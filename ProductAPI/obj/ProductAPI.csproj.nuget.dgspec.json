@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\45811737874\\Desktop\\ProductAPI\\ProductAPI.csproj": {}
+    "C:\\Users\\45811737874\\Desktop\\Remember_Basic_API\\ProductAPI\\ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\45811737874\\Desktop\\ProductAPI\\ProductAPI.csproj": {
+    "C:\\Users\\45811737874\\Desktop\\Remember_Basic_API\\ProductAPI\\ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\45811737874\\Desktop\\ProductAPI\\ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\45811737874\\Desktop\\Remember_Basic_API\\ProductAPI\\ProductAPI.csproj",
         "projectName": "ProductAPI",
-        "projectPath": "C:\\Users\\45811737874\\Desktop\\ProductAPI\\ProductAPI.csproj",
+        "projectPath": "C:\\Users\\45811737874\\Desktop\\Remember_Basic_API\\ProductAPI\\ProductAPI.csproj",
         "packagesPath": "C:\\Users\\45811737874\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\45811737874\\Desktop\\ProductAPI\\obj\\",
+        "outputPath": "C:\\Users\\45811737874\\Desktop\\Remember_Basic_API\\ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,6 +68,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

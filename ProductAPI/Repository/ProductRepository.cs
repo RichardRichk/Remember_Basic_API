@@ -49,8 +49,8 @@ namespace ProductAPI.Repository
 
                 if (findProduct != null)
                 {
-                    product.Name = findProduct.Name;
-                    product.Price = findProduct.Price;
+                    findProduct.Name = product.Name;
+                    findProduct.Price = product.Price;
                 }
 
                 _context.Product.Update(findProduct!);
